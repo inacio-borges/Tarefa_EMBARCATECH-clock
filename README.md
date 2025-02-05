@@ -11,6 +11,7 @@ Este projeto implementa um semáforo simples utilizando o Raspberry Pi Pico W, c
 
 ## Descrição
 
+
 O código demonstra o uso de interrupções, temporizadores e controle de GPIOs para criar um semáforo com a seguinte sequência:
 
 1. Vermelho aceso por 3 segundos.
